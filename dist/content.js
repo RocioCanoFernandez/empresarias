@@ -198,28 +198,28 @@
         "name": "Mercedes Núñez Arcos",
         "role": "Vicepresidencia de Relaciones Institucionales",
         "initials": "MN",
-        "focus": "Reforzar la representación de Empresarias Sevillanas y abrir conexiones institucionales e internacionales útiles para las socias.",
+        "focus": "Aporta una sólida trayectoria asociativa, un profundo conocimiento del entorno institucional y capacidad para abrir puertas, construir alianzas y representar públicamente a Empresarias Sevillanas.",
         "lead": false
     },
     {
         "name": "Rocío Cano Fernández-Piedra",
         "role": "Vicepresidencia de Comunicación",
         "initials": "RC",
-        "focus": "Hacer visible el talento de las empresarias y convertir la comunicación en información clara, cercana y útil.",
+        "focus": "Aporta renovación, creatividad y capacidad de comunicación para convertir las ideas en proyectos y campañas que hagan más visible, cercana y útil la asociación.",
         "lead": false
     },
     {
         "name": "Macarena Pérez Ocaña",
         "role": "Secretaría General",
         "initials": "MP",
-        "focus": "Impulsar una organización cercana y participativa, con una bienvenida cuidada y reglas internas claras para todas.",
+        "focus": "Aporta experiencia asociativa, criterio jurídico, carisma y cercanía para escuchar a las socias, fortalecer la organización y mantener al equipo conectado con la realidad de la asociación.",
         "lead": false
     },
     {
         "name": "Victoria Luna Ortiz",
         "role": "Tesorería",
         "initials": "VL",
-        "focus": "Garantizar una gestión responsable, transparente y sostenible que permita convertir las ideas en acciones viables.",
+        "focus": "Aporta una sólida trayectoria financiera, visión empresarial y capacidad para gestionar y optimizar los recursos con rigor, responsabilidad y sentido estratégico.",
         "lead": false
     }
 ],
