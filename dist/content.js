@@ -108,7 +108,7 @@
     {
         "axis": "5. Crecimiento, captación y acogida",
         "title": "Welcome Pack: Tu primer paso en la Red",
-        "benefit": "Creación de un 'Welcome Pack' estructurado que incluya foto institucional, entrevista en Instagram y un plan de bienvenida para orientar a la nueva socia sobre canales y participación desde el primer día.",
+        "benefit": "Creación de un 'Welcome Pack' estructurado que incluya foto institucional, entrevista en Instagram, plan de bienvenida y un kit digital con el distintivo de la asociación para que la nueva socia pueda lucirlo en sus propias redes sociales y web corporativa.",
         "horizon": "Primeros 100 días",
         "highlight": true
     },
@@ -169,52 +169,10 @@
         "highlight": false
     },
     {
-        "axis": "3. Relaciones, participación y pertenencia",
-        "title": "Ruta Provincial de Empresarias Sevillanas",
-        "benefit": "Mantener nuestro firme compromiso con las iniciativas que ya funcionan con éxito en Empresarias Sevillanas. Seguiremos desarrollando este proyecto itinerante en colaboración con Prodetur para visibilizar el emprendimiento femenino y generar networking en todos los municipios de la provincia.",
-        "horizon": "Consolidación",
-        "highlight": false
-    },
-    {
-        "axis": "4. Visibilidad y prestigio",
-        "title": "Foro Prodetur Mujer y Empresa",
-        "benefit": "Garantizar la continuidad de los grandes hitos anuales que ya lideramos. Seguiremos consolidando el Foro Prodetur Mujer y Empresa como el congreso de referencia del liderazgo empresarial femenino en Sevilla.",
-        "horizon": "Consolidación",
-        "highlight": false
-    },
-    {
-        "axis": "4. Visibilidad y prestigio",
-        "title": "Presencia y Base de Datos de Medios",
-        "benefit": "Ampliar nuestra base de contactos y presencia activa en medios de comunicación (radio, prensa y televisión) para elevar el nivel de visibilidad e influencia institucional.",
-        "horizon": "Primer año",
-        "highlight": false
-    },
-    {
         "axis": "8. Proyectos de legado y futuro",
         "title": "Las empresarias que abrieron camino",
         "benefit": "Proyecto de investigación histórico para 2029 que visibilice a empresarias sevillanas de generaciones anteriores.",
         "horizon": "Legado",
-        "highlight": false
-    },
-    {
-        "axis": "3. Relaciones, participación y pertenencia",
-        "title": "Ruta Provincial de Empresarias Sevillanas",
-        "benefit": "Mantener nuestro firme compromiso con las iniciativas que ya funcionan con éxito en Empresarias Sevillanas. Seguiremos desarrollando este proyecto itinerante en colaboración con Prodetur para visibilizar el emprendimiento femenino y generar networking en todos los municipios de la provincia.",
-        "horizon": "Consolidación",
-        "highlight": false
-    },
-    {
-        "axis": "4. Visibilidad y prestigio",
-        "title": "Foro Prodetur Mujer y Empresa",
-        "benefit": "Garantizar la continuidad de los grandes hitos anuales que ya lideramos. Seguiremos consolidando el Foro Prodetur Mujer y Empresa como el congreso de referencia del liderazgo empresarial femenino en Sevilla.",
-        "horizon": "Consolidación",
-        "highlight": false
-    },
-    {
-        "axis": "4. Visibilidad y prestigio",
-        "title": "Presencia y Base de Datos de Medios",
-        "benefit": "Ampliar nuestra base de contactos y presencia activa en medios de comunicación (radio, prensa y televisión) para elevar el nivel de visibilidad e influencia institucional.",
-        "horizon": "Primer año",
         "highlight": false
     },
     {
