@@ -107,8 +107,8 @@
     },
     {
         "axis": "5. Crecimiento, captación y acogida",
-        "title": "Tu primer paso en la Red",
-        "benefit": "Plan de bienvenida que orienta a la nueva socia sobre canales, comisiones y formas de participar desde el primer día.",
+        "title": "Welcome Pack: Tu primer paso en la Red",
+        "benefit": "Creación de un 'Welcome Pack' estructurado que incluya foto institucional, entrevista en Instagram y un plan de bienvenida para orientar a la nueva socia sobre canales y participación desde el primer día.",
         "horizon": "Primeros 100 días",
         "highlight": true
     },
@@ -163,9 +163,30 @@
     },
     {
         "axis": "8. Proyectos de legado y futuro",
-        "title": "15 años haciendo red",
-        "benefit": "Encuentro conmemorativo para recuperar y celebrar la memoria institucional y a sus protagonistas.",
+        "title": "Gala Conmemorativa del 15º Aniversario",
+        "benefit": "Gran Gala conmemorativa para recuperar y celebrar la memoria institucional y a las protagonistas de la asociación.",
         "horizon": "Legado",
+        "highlight": false
+    },
+    {
+        "axis": "3. Relaciones, participación y pertenencia",
+        "title": "Ruta Provincial de Empresarias Sevillanas",
+        "benefit": "Mantener nuestro firme compromiso con las iniciativas que ya funcionan con éxito en Empresarias Sevillanas. Seguiremos desarrollando este proyecto itinerante en colaboración con Prodetur para visibilizar el emprendimiento femenino y generar networking en todos los municipios de la provincia.",
+        "horizon": "Consolidación",
+        "highlight": false
+    },
+    {
+        "axis": "4. Visibilidad y prestigio",
+        "title": "Foro Prodetur Mujer y Empresa",
+        "benefit": "Garantizar la continuidad de los grandes hitos anuales que ya lideramos. Seguiremos consolidando el Foro Prodetur Mujer y Empresa como el congreso de referencia del liderazgo empresarial femenino en Sevilla.",
+        "horizon": "Consolidación",
+        "highlight": false
+    },
+    {
+        "axis": "4. Visibilidad y prestigio",
+        "title": "Presencia y Base de Datos de Medios",
+        "benefit": "Ampliar nuestra base de contactos y presencia activa en medios de comunicación (radio, prensa y televisión) para elevar el nivel de visibilidad e influencia institucional.",
+        "horizon": "Primer año",
         "highlight": false
     },
     {
@@ -176,10 +197,52 @@
         "highlight": false
     },
     {
+        "axis": "3. Relaciones, participación y pertenencia",
+        "title": "Ruta Provincial de Empresarias Sevillanas",
+        "benefit": "Mantener nuestro firme compromiso con las iniciativas que ya funcionan con éxito en Empresarias Sevillanas. Seguiremos desarrollando este proyecto itinerante en colaboración con Prodetur para visibilizar el emprendimiento femenino y generar networking en todos los municipios de la provincia.",
+        "horizon": "Consolidación",
+        "highlight": false
+    },
+    {
+        "axis": "4. Visibilidad y prestigio",
+        "title": "Foro Prodetur Mujer y Empresa",
+        "benefit": "Garantizar la continuidad de los grandes hitos anuales que ya lideramos. Seguiremos consolidando el Foro Prodetur Mujer y Empresa como el congreso de referencia del liderazgo empresarial femenino en Sevilla.",
+        "horizon": "Consolidación",
+        "highlight": false
+    },
+    {
+        "axis": "4. Visibilidad y prestigio",
+        "title": "Presencia y Base de Datos de Medios",
+        "benefit": "Ampliar nuestra base de contactos y presencia activa en medios de comunicación (radio, prensa y televisión) para elevar el nivel de visibilidad e influencia institucional.",
+        "horizon": "Primer año",
+        "highlight": false
+    },
+    {
         "axis": "8. Proyectos de legado y futuro",
         "title": "Feria Empresarial de Empresarias Sevillanas",
-        "benefit": "Muestra comercial donde asociadas puedan exponer sus servicios y productos, supeditada a viabilidad económica.",
+        "benefit": "Muestra comercial en espacios emblemáticos (como el Casino de la Exposición) donde las asociadas puedan exponer sus servicios y productos.",
         "horizon": "Legado",
+        "highlight": false
+    },
+    {
+        "axis": "3. Relaciones, participación y pertenencia",
+        "title": "Ruta Provincial de Empresarias Sevillanas",
+        "benefit": "Mantener nuestro firme compromiso con las iniciativas que ya funcionan con éxito en Empresarias Sevillanas. Seguiremos desarrollando este proyecto itinerante en colaboración con Prodetur para visibilizar el emprendimiento femenino y generar networking en todos los municipios de la provincia.",
+        "horizon": "Consolidación",
+        "highlight": false
+    },
+    {
+        "axis": "4. Visibilidad y prestigio",
+        "title": "Foro Prodetur Mujer y Empresa",
+        "benefit": "Garantizar la continuidad de los grandes hitos anuales que ya lideramos. Seguiremos consolidando el Foro Prodetur Mujer y Empresa como el congreso de referencia del liderazgo empresarial femenino en Sevilla.",
+        "horizon": "Consolidación",
+        "highlight": false
+    },
+    {
+        "axis": "4. Visibilidad y prestigio",
+        "title": "Presencia y Base de Datos de Medios",
+        "benefit": "Ampliar nuestra base de contactos y presencia activa en medios de comunicación (radio, prensa y televisión) para elevar el nivel de visibilidad e influencia institucional.",
+        "horizon": "Primer año",
         "highlight": false
     }
 ];
@@ -191,35 +254,35 @@
         "name": "Mariló Caro Cals",
         "role": "Presidencia",
         "initials": "MC",
-        "focus": "Una visión compartida para una asociación con más influencia, más oportunidades y más capacidad de crecimiento.",
+        "focus": "Abogada y empresaria sevillana especializada en Derecho Civil, Penal e Internacional, con más de 20 años de trayectoria. Secretaria General de la asociación durante 11 años. Actualmente es Presidenta de la Comisión de Régimen Interno de la CES, miembro del Pleno de la Cámara de Comercio de Sevilla y vocal del Consejo Económico y Social de Sevilla, entre otros cargos institucionales. Una trayectoria que combina experiencia jurídica, liderazgo empresarial, representación institucional y conocimiento directo del tejido empresarial andaluz.",
         "lead": true
     },
     {
         "name": "Mercedes Núñez Arcos",
         "role": "Vicepresidencia de Relaciones Institucionales",
         "initials": "MN",
-        "focus": "Aporta una sólida trayectoria asociativa, un profundo conocimiento del entorno institucional y capacidad para abrir puertas, construir alianzas y representar públicamente a Empresarias Sevillanas.",
+        "focus": "Secretaria General de APROCOM. Aporta una sólida trayectoria asociativa en el sector comercio, un profundo conocimiento del entorno institucional y capacidad para abrir puertas y representar públicamente a Empresarias Sevillanas. (Pendiente de ampliación personal).",
         "lead": false
     },
     {
         "name": "Rocío Cano Fernández-Piedra",
         "role": "Vicepresidencia de Comunicación",
         "initials": "RC",
-        "focus": "Aporta renovación, creatividad y capacidad de comunicación para convertir las ideas en proyectos y campañas que hagan más visible, cercana y útil la asociación.",
+        "focus": "Empresaria sevillana y fundadora de SeviAI, especializada en consultoría, formación e IA aplicada a negocios. Cuenta con más de 15 años de experiencia previa vinculada a la gestión de eventos, coordinación de equipos y comunicación corporativa. Es miembro activo de Empresarias Sevillanas y BNI. Su perfil aúna el conocimiento directo del tejido empresarial local con el uso práctico de herramientas tecnológicas avanzadas. Aporta a la candidatura renovación, creatividad y capacidad estratégica para mejorar la comunicación interna y convertir las ideas en campañas que hagan más visible y cercana la asociación.",
         "lead": false
     },
     {
         "name": "Macarena Pérez Ocaña",
         "role": "Secretaría General",
         "initials": "MP",
-        "focus": "Aporta experiencia asociativa, criterio jurídico, carisma y cercanía para escuchar a las socias, fortalecer la organización y mantener al equipo conectado con la realidad de la asociación.",
+        "focus": "Aporta experiencia asociativa, criterio jurídico, carisma y cercanía para escuchar a las socias, fortalecer la organización y mantener al equipo conectado con la realidad de la asociación. (Pendiente de ampliación personal).",
         "lead": false
     },
     {
         "name": "Victoria Luna Ortiz",
         "role": "Tesorería",
         "initials": "VL",
-        "focus": "Aporta una sólida trayectoria financiera, visión empresarial y capacidad para gestionar y optimizar los recursos con rigor, responsabilidad y sentido estratégico.",
+        "focus": "Aporta una sólida trayectoria financiera, visión empresarial y capacidad para gestionar y optimizar los recursos con rigor, responsabilidad y sentido estratégico. (Pendiente de ampliación personal).",
         "lead": false
     }
 ],
