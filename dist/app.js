@@ -45,7 +45,7 @@
             <div class="team-card-copy">
               <p class="team-role">${escapeHtml(member.role)}</p>
               <h3>${escapeHtml(member.name)}</h3>
-              <p class="team-focus">${escapeHtml(member.focus)}</p>
+              <p class="team-focus">${member.focus}</p>
             </div>
           </article>`,
       )
