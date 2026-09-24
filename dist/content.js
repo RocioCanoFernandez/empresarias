@@ -37,9 +37,23 @@
     },
     {
         "axis": "6. Información útil y una asociación más fácil",
-        "title": "Empresarias al Día y Radar de Oportunidades",
-        "benefit": "Por un lado, un boletín mensual enfocado en visibilizar los hitos y servicios de nuestras socias. Por otro, un canal de alertas directas para avisar ágilmente de subvenciones, licitaciones y formaciones clave.",
+        "title": "Empresarias al Día",
+        "benefit": "Boletín mensual breve con nuevas incorporaciones, próximas actividades, logros de las socias y oportunidades destacadas.",
         "horizon": "Primeros 100 días",
+        "highlight": true
+    },
+    {
+        "axis": "4. Visibilidad y prestigio",
+        "title": "Radar de Oportunidades",
+        "benefit": "Filtrar y compartir convocatorias, subvenciones y ayudas de interés real para empresarias y pymes.",
+        "horizon": "Primeros 100 días",
+        "highlight": true
+    },
+    {
+        "axis": "3. Relaciones, participación y pertenencia",
+        "title": "Hackatón de Impacto Social Local",
+        "benefit": "Crear equipos de trabajo multidisciplinares entre las socias para resolver un reto real planteado por ONGs locales o emprendedoras sociales. Una iniciativa para fomentar el trabajo en equipo, visibilizar el liderazgo femenino y generar un impacto positivo directo en nuestra comunidad.",
+        "horizon": "Primer año",
         "highlight": true
     },
     {
@@ -193,13 +207,6 @@
         "axis": "4. Visibilidad y prestigio",
         "title": "Presencia y Base de Datos de Medios",
         "benefit": "Ampliar nuestra base de contactos y presencia activa en medios de comunicación (radio, prensa y televisión) para elevar el nivel de visibilidad e influencia institucional.",
-        "horizon": "Primer año",
-        "highlight": false
-    },
-    {
-        "axis": "3. Relaciones, participación y pertenencia",
-        "title": "Hackatón de Impacto Social Local",
-        "benefit": "Crear equipos de trabajo multidisciplinares entre las socias para resolver un reto real planteado por ONGs locales o emprendedoras sociales. Una iniciativa para fomentar el trabajo en equipo, visibilizar el liderazgo femenino y generar un impacto positivo directo en nuestra comunidad.",
         "horizon": "Primer año",
         "highlight": false
     }
