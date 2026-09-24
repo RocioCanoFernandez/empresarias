@@ -226,8 +226,7 @@
         "name": "Mercedes Núñez Arcos",
         "role": "Vicepresidencia de Relaciones Institucionales",
         "initials": "MN",
-        "focus": "Abogada y Secretaria General de APROCOM. Aporta una sólida trayectoria institucional y comercial. Su participación activa en comisiones de la Cámara de Comercio, la CES y el Ayuntamiento tiene un objetivo claro: abrir puertas, construir alianzas estratégicas y garantizar que los intereses de nuestras asociadas estén siempre defendidos en las mesas de negociación más importantes de Sevilla."Empresa y Mujer\" de la Cámara de Comercio de Sevilla y en distintas comisiones de la Confederación de Empresarios de Sevilla, entre ellas Igualdad, Responsabilidad Social, Negociación de Convenios y Territorial. Forma parte además de la Comisión Negociadora del Convenio de Comercio de la provincia, del Consejo de la Empresa Familiar de la CEA y de órganos vinculados al comercio del Ayuntamiento de Sevilla.<br><br>También ejerce como Agente de la Propiedad Inmobiliaria desde 2006 y ha recibido un reconocimiento del Ilustre Colegio de Abogados de Sevilla por 25 años de dedicación ininterrumpida como abogada de oficio.<br><br>Su perfil combina experiencia jurídica, conocimiento del comercio, negociación, representación empresarial y una intensa trayectoria asociativa.",
-        "lead": false
+        "focus": "Abogada y Secretaria General de APROCOM. Aporta una sólida trayectoria institucional y comercial. Su participación activa en comisiones de la Cámara, la CES y el Ayuntamiento tiene un objetivo claro: abrir puertas, construir alianzas estratégicas y garantizar que los intereses de nuestras asociadas estén defendidos en las mesas de negociación más importantes de Sevilla."
     },
     {
         "name": "Rocío Cano Fernández-Piedra",
