@@ -16,10 +16,10 @@
     },
     {
         "axis": "2. Formación y crecimiento empresarial",
-        "title": "Bolsa de Mentoras",
-        "benefit": "Red voluntaria de empresarias dispuestas a orientar a otras socias en decisiones concretas, empezando con un grupo piloto de alcance controlado.",
+        "title": "Primera Red de Mentoras",
+        "benefit": "Experiencia compartida para escalar tu negocio. Tanto si necesitas impulso como si quieres aportar tu trayectoria, crearemos un sistema real de apoyo entre nosotras.",
         "horizon": "Primer año",
-        "highlight": false
+        "highlight": true
     },
     {
         "axis": "2. Formación y crecimiento empresarial",
@@ -202,6 +202,13 @@
         "benefit": "Ampliar nuestra base de contactos y presencia activa en medios de comunicación (radio, prensa y televisión) para elevar el nivel de visibilidad e influencia institucional.",
         "horizon": "Primer año",
         "highlight": false
+    },
+    {
+        "axis": "3. Relaciones, participación y pertenencia",
+        "title": "Hackatón de Impacto Social Local",
+        "benefit": "Crear equipos de trabajo multidisciplinares entre las socias para resolver un reto real planteado por ONGs locales o emprendedoras sociales. Una iniciativa para fomentar el trabajo en equipo, visibilizar el liderazgo femenino y generar un impacto positivo directo en nuestra comunidad.",
+        "horizon": "Primer año",
+        "highlight": true
     }
 ];
 
@@ -212,35 +219,35 @@
         "name": "Mariló Caro Cals",
         "role": "Presidencia",
         "initials": "MC",
-        "focus": "Abogada y empresaria sevillana, especializada en Derecho Civil, Penal e Internacional, con más de 20 años de trayectoria jurídica y una amplia experiencia en asesoramiento, representación institucional y participación en mesas de expertos.<br><br>Forma parte de Empresarias Sevillanas desde sus primeros años y ha ejercido durante prácticamente nueve años como Secretaria General, participando de manera continuada en la gestión, representación y evolución de la Asociación. Ese recorrido le ha permitido conocer de primera mano su funcionamiento, sus relaciones institucionales y las necesidades de sus socias.<br><br>Actualmente es Presidenta de la Comisión de Régimen Interno de la Confederación de Empresarios de Sevilla, miembro del Pleno de la Cámara de Comercio de Sevilla y vocal del Consejo Económico y Social de Sevilla. Forma parte también de la Junta Directiva de la Asociación de Comerciantes de Triana y de la Junta Directiva de la Confederación de Empresarios de Andalucía, donde participa en comisiones vinculadas a Energía y Aeroespacial. En la CES participa además en distintas áreas de trabajo relacionadas con economía, responsabilidad social, asociaciones territoriales y turismo.<br><br>Compagina esta labor con la docencia y el acompañamiento a empresarias en los programas Desafío Consolida Woman y Activa Woman de la Cámara de Comercio de Sevilla.<br><br>Su candidatura a la Presidencia reúne experiencia jurídica, casi una década de conocimiento directo de Empresarias Sevillanas, representación institucional y una trayectoria estrechamente vinculada al tejido empresarial sevillano y andaluz.",
+        "focus": "Abogada y empresaria con más de 20 años de trayectoria. Su labor durante casi una década en la directiva le permite conocer a fondo las necesidades reales de las socias. Su actual presencia en la CES, la Cámara de Comercio y la CEA no es un fin en sí mismo, sino la herramienta clave para que Empresarias Sevillanas tenga voz donde se toman las decisiones y pueda conseguir mejores oportunidades para tu negocio.",
         "lead": true
     },
     {
         "name": "Mercedes Núñez Arcos",
         "role": "Vicepresidencia de Relaciones Institucionales",
         "initials": "MN",
-        "focus": "Abogada en ejercicio desde 1997, empresaria y profesional con una amplia trayectoria en el ámbito jurídico, comercial e institucional. Es Secretaria General de APROCOM desde 2018 y vocal de la Junta Directiva de Empresarias Sevillanas desde 2019.<br><br>Participa en la Comisión \"Empresa y Mujer\" de la Cámara de Comercio de Sevilla y en distintas comisiones de la Confederación de Empresarios de Sevilla, entre ellas Igualdad, Responsabilidad Social, Negociación de Convenios y Territorial. Forma parte además de la Comisión Negociadora del Convenio de Comercio de la provincia, del Consejo de la Empresa Familiar de la CEA y de órganos vinculados al comercio del Ayuntamiento de Sevilla.<br><br>También ejerce como Agente de la Propiedad Inmobiliaria desde 2006 y ha recibido un reconocimiento del Ilustre Colegio de Abogados de Sevilla por 25 años de dedicación ininterrumpida como abogada de oficio.<br><br>Su perfil combina experiencia jurídica, conocimiento del comercio, negociación, representación empresarial y una intensa trayectoria asociativa.",
+        "focus": "Abogada y Secretaria General de APROCOM. Aporta una sólida trayectoria institucional y comercial. Su participación activa en comisiones de la Cámara de Comercio, la CES y el Ayuntamiento tiene un objetivo claro: abrir puertas, construir alianzas estratégicas y garantizar que los intereses de nuestras asociadas estén siempre defendidos en las mesas de negociación más importantes de Sevilla."Empresa y Mujer\" de la Cámara de Comercio de Sevilla y en distintas comisiones de la Confederación de Empresarios de Sevilla, entre ellas Igualdad, Responsabilidad Social, Negociación de Convenios y Territorial. Forma parte además de la Comisión Negociadora del Convenio de Comercio de la provincia, del Consejo de la Empresa Familiar de la CEA y de órganos vinculados al comercio del Ayuntamiento de Sevilla.<br><br>También ejerce como Agente de la Propiedad Inmobiliaria desde 2006 y ha recibido un reconocimiento del Ilustre Colegio de Abogados de Sevilla por 25 años de dedicación ininterrumpida como abogada de oficio.<br><br>Su perfil combina experiencia jurídica, conocimiento del comercio, negociación, representación empresarial y una intensa trayectoria asociativa.",
         "lead": false
     },
     {
         "name": "Rocío Cano Fernández-Piedra",
         "role": "Vicepresidencia de Comunicación",
         "initials": "RC",
-        "focus": "Empresaria sevillana y fundadora de SeviAI - Asesoría y Formación, especializada en acercar la Inteligencia Artificial a PYMES, equipos y profesionales de forma práctica, comprensible y adaptada a la realidad de cada organización.<br><br>Cuenta con más de 15 años de trayectoria vinculada a la hostelería y los eventos, con experiencia en gestión, producción y coordinación de equipos. Tras una reconversión profesional hacia el ámbito tecnológico, se especializó en Inteligencia Artificial aplicada a los negocios y puso en marcha SeviAI, desde donde trabaja en consultoría, formación, automatización de procesos y adopción responsable de la IA.<br><br>Participa activamente en redes empresariales de Sevilla, entre ellas Empresarias Sevillanas y BNI, y cuenta además con experiencia en organización de eventos, creación de contenidos, redes sociales y desarrollo de proyectos de marca.<br><br>Como candidata a la Vicepresidencia de Comunicación, quiere contribuir a hacer más visible el trabajo de la Asociación y, especialmente, el talento, la actividad y el conocimiento de sus empresarias.",
+        "focus": "Fundadora de SeviAI, especializada en Inteligencia Artificial para PYMES. Combina 15 años de experiencia en gestión de equipos con visión tecnológica y estratégica. Como Vicepresidenta de Comunicación, su meta es cambiar el foco: dejar de hablar tanto del comité y usar los canales de la Asociación para visibilizar el talento, los servicios y los logros de cada una de las socias.",
         "lead": false
     },
     {
         "name": "Macarena Pérez Ocaña",
         "role": "Secretaría General",
         "initials": "MP",
-        "focus": "Abogada y empresaria con más de 20 años de trayectoria profesional, especializada en Derecho Laboral y Extranjería. Es fundadora de su propia firma, con sedes en Sevilla y Algeciras, desde donde asesora y acompaña a empresas, profesionales y particulares.<br><br>Forma parte de Empresarias Sevillanas desde 2018 y desde 2021 ejerce como Tesorera, además de formar parte de su Junta Directiva. Esta experiencia le ha permitido conocer de cerca la gestión de la Asociación y el valor que puede generar una red empresarial cuando convierte las relaciones entre sus socias en colaboración, oportunidades y representación.<br><br>En esta nueva candidatura da un paso más para asumir la Secretaría, poniendo al servicio de Empresarias Sevillanas su experiencia jurídica, empresarial y asociativa, y su conocimiento directo de la organización. Su objetivo es contribuir a una asociación sólida, cercana, bien gestionada y útil para sus socias.",
+        "focus": "Abogada y fundadora de su propia firma. Como actual Tesorera, conoce perfectamente el engranaje interno de la Asociación. Asume la Secretaría General con el propósito de transformar la gestión diaria: hacerla más ágil, cercana y transparente. Su objetivo es que cualquier socia, desde el primer día, sepa a quién acudir y cómo sacar el máximo provecho a la red.",
         "lead": false
     },
     {
         "name": "Victoria Luna Ortiz",
         "role": "Tesorería",
         "initials": "VL",
-        "focus": "Profesional del sector financiero desde 2008, especializada en asesoramiento y planificación financiera. A lo largo de su trayectoria ha combinado la actividad profesional con la formación, uniendo conocimiento técnico, capacidad de análisis y una forma cercana y clara de acompañar en la toma de decisiones.<br><br>Es asesora financiera certificada EFA - European Financial Advisor por EFPA y cuenta también con las certificaciones LCCI, en crédito inmobiliario, y EFPA ESG Advisor™, especializada en finanzas sostenibles y criterios ESG.<br><br>Actualmente desarrolla su actividad en banca privada como agente representante de Andbank España, acompañando a particulares, familias y empresarios en la planificación, organización y gestión de su patrimonio con una visión global y de largo plazo.<br><br>Socia de Empresarias Sevillanas desde 2024, aporta a esta candidatura una mirada financiera orientada no solo al control de los recursos, sino también a la planificación, la transparencia, la sostenibilidad económica y la búsqueda de nuevas oportunidades para la Asociación.",
+        "focus": "Experta en asesoramiento y planificación financiera. Aporta a la candidatura una visión empresarial de los recursos: no se trata solo de controlar el gasto, sino de optimizar la financiación, buscar nuevas ayudas y diversificar los ingresos. El objetivo es ofrecer más formación y mejores proyectos a las socias, garantizando un crecimiento sostenible.",
         "lead": false
     }
 ],
