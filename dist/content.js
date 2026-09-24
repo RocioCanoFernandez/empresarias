@@ -1,6 +1,13 @@
 (function () {
   const commitments = [
     {
+        "axis": "3. Relaciones, participación y pertenencia",
+        "title": "Comisiones Sectoriales",
+        "benefit": "Crear grupos de trabajo para sectores específicos donde las socias puedan detectar necesidades propias y proponer iniciativas, lideradas por una asociada.",
+        "horizon": "Primer año",
+        "highlight": true
+    },
+    {
         "axis": "2. Formación y crecimiento empresarial",
         "title": "Primera Red de Mentoras",
         "benefit": "Experiencia compartida para escalar tu negocio. Tanto si necesitas impulso como si quieres aportar tu trayectoria, crearemos un sistema real de apoyo entre nosotras.",
@@ -8,18 +15,39 @@
         "highlight": true
     },
     {
-        "axis": "3. Relaciones, participación y pertenencia",
-        "title": "Comisiones Sectoriales",
-        "benefit": "Crear grupos de trabajo para sectores específicos donde las socias puedan detectar necesidades propias y proponer iniciativas, lideradas por una asociada.",
+        "axis": "5. Crecimiento, captación y acogida",
+        "title": "Programa de Madrinas",
+        "benefit": "Facilitar que las asociadas inviten y acompañen a otras empresarias en su incorporación con un trato más cercano y apoyo directo.",
+        "horizon": "Consolidación",
+        "highlight": true
+    },
+    {
+        "axis": "4. Visibilidad y prestigio",
+        "title": "Sevilla tiene nombre de empresaria",
+        "benefit": "Campaña continuada para visibilizar a empresarias reales, sus trayectorias y su contribución económica mediante colaboraciones y soportes.",
         "horizon": "Primer año",
-        "highlight": false
+        "highlight": true
+    },
+    {
+        "axis": "5. Crecimiento, captación y acogida",
+        "title": "Welcome Pack: Tu primer paso en la Red",
+        "benefit": "Creación de un 'Welcome Pack' estructurado que incluya foto institucional, entrevista en Instagram, plan de bienvenida y un kit digital con el distintivo de la asociación para que la nueva socia pueda lucirlo en sus propias redes sociales y web corporativa.",
+        "horizon": "Primeros 100 días",
+        "highlight": true
+    },
+    {
+        "axis": "6. Información útil y una asociación más fácil",
+        "title": "Empresarias al Día y Radar de Oportunidades",
+        "benefit": "Por un lado, un boletín mensual enfocado en visibilizar los hitos y servicios de nuestras socias. Por otro, un canal de alertas directas para avisar ágilmente de subvenciones, licitaciones y formaciones clave.",
+        "horizon": "Primeros 100 días",
+        "highlight": true
     },
     {
         "axis": "1. Representación e influencia",
         "title": "Tu voz, donde se decide",
         "benefit": "Explicar qué se defiende, qué se consigue y cómo afecta a las socias cada vez que la asociación participa en un espacio institucional relevante.",
         "horizon": "Primeros 100 días",
-        "highlight": true
+        "highlight": false
     },
     {
         "axis": "1. Representación e influencia",
@@ -54,7 +82,7 @@
         "title": "Círculos Empresarias",
         "benefit": "Encuentros reducidos y bimestrales para facilitar conexiones entre socias y acercarlas a personas relevantes del ámbito político, social y empresarial.",
         "horizon": "Primer año",
-        "highlight": true
+        "highlight": false
     },
     {
         "axis": "3. Relaciones, participación y pertenencia",
@@ -79,13 +107,6 @@
     },
     {
         "axis": "4. Visibilidad y prestigio",
-        "title": "Sevilla tiene nombre de empresaria",
-        "benefit": "Campaña continuada para visibilizar a empresarias reales, sus trayectorias y su contribución económica mediante colaboraciones y soportes.",
-        "horizon": "Primer año",
-        "highlight": true
-    },
-    {
-        "axis": "4. Visibilidad y prestigio",
         "title": "Marca Empresaria Sevillana",
         "benefit": "Definir el relato de marca y crear un distintivo de pertenencia reconocible para web y redes, reforzando la reputación de ser socia.",
         "horizon": "Primer año",
@@ -97,34 +118,6 @@
         "benefit": "Ampliar la variedad de empresarias protagonistas en la comunicación para evitar concentrar la visibilidad siempre en los mismos perfiles.",
         "horizon": "Consolidación",
         "highlight": false
-    },
-    {
-        "axis": "5. Crecimiento, captación y acogida",
-        "title": "Una más en la Red",
-        "benefit": "Facilitar que las asociadas inviten y acompañen a otras empresarias en su incorporación con materiales claros de presentación.",
-        "horizon": "Consolidación",
-        "highlight": false
-    },
-    {
-        "axis": "5. Crecimiento, captación y acogida",
-        "title": "Welcome Pack: Tu primer paso en la Red",
-        "benefit": "Creación de un 'Welcome Pack' estructurado que incluya foto institucional, entrevista en Instagram, plan de bienvenida y un kit digital con el distintivo de la asociación para que la nueva socia pueda lucirlo en sus propias redes sociales y web corporativa.",
-        "horizon": "Primeros 100 días",
-        "highlight": true
-    },
-    {
-        "axis": "6. Información útil y una asociación más fácil",
-        "title": "Empresarias al Día",
-        "benefit": "Boletín mensual breve con nuevas incorporaciones, próximas actividades, logros de las socias y oportunidades destacadas.",
-        "horizon": "Primeros 100 días",
-        "highlight": true
-    },
-    {
-        "axis": "6. Información útil y una asociación más fácil",
-        "title": "Radar de Oportunidades",
-        "benefit": "Filtrar y compartir convocatorias, subvenciones y ayudas de interés real para empresarias y pymes.",
-        "horizon": "Primeros 100 días",
-        "highlight": true
     },
     {
         "axis": "6. Información útil y una asociación más fácil",
@@ -208,7 +201,7 @@
         "title": "Hackatón de Impacto Social Local",
         "benefit": "Crear equipos de trabajo multidisciplinares entre las socias para resolver un reto real planteado por ONGs locales o emprendedoras sociales. Una iniciativa para fomentar el trabajo en equipo, visibilizar el liderazgo femenino y generar un impacto positivo directo en nuestra comunidad.",
         "horizon": "Primer año",
-        "highlight": true
+        "highlight": false
     }
 ];
 
