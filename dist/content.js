@@ -1,4 +1,18 @@
-(function () {
+(function () 
+    {
+        "axis": "2. Formación y crecimiento empresarial",
+        "title": "Primera Red de Mentoras",
+        "benefit": "Experiencia compartida para escalar tu negocio. Tanto si necesitas impulso como si quieres aportar tu trayectoria, crearemos un sistema real de apoyo entre nosotras.",
+        "horizon": "Primer año",
+        "highlight": true
+    },
+    {
+        "axis": "3. Relaciones, participación y pertenencia",
+        "title": "Comisiones Sectoriales",
+        "benefit": "Crear grupos de trabajo para sectores específicos donde las socias puedan detectar necesidades propias y proponer iniciativas, lideradas por una asociada.",
+        "horizon": "Primer año",
+        "highlight": false
+    },{
   const commitments = [
     {
         "axis": "1. Representación e influencia",
@@ -13,13 +27,6 @@
         "benefit": "Reforzar la difusión de la Cátedra de la Mujer Empresaria e impulsar estudios sobre sectores y oportunidades para orientar la representación pública con datos.",
         "horizon": "Primer año",
         "highlight": false
-    },
-    {
-        "axis": "2. Formación y crecimiento empresarial",
-        "title": "Primera Red de Mentoras",
-        "benefit": "Experiencia compartida para escalar tu negocio. Tanto si necesitas impulso como si quieres aportar tu trayectoria, crearemos un sistema real de apoyo entre nosotras.",
-        "horizon": "Primer año",
-        "highlight": true
     },
     {
         "axis": "2. Formación y crecimiento empresarial",
@@ -40,13 +47,6 @@
         "title": "Empresarias de hoy, empresarias de mañana",
         "benefit": "Conectar a empresarias con estudiantes universitarias a través de proyectos, prácticas y acercamiento de referentes.",
         "horizon": "Consolidación",
-        "highlight": false
-    },
-    {
-        "axis": "3. Relaciones, participación y pertenencia",
-        "title": "Comisiones Sectoriales",
-        "benefit": "Crear grupos de trabajo para sectores específicos donde las socias puedan detectar necesidades propias y proponer iniciativas, lideradas por una asociada.",
-        "horizon": "Primer año",
         "highlight": false
     },
     {
