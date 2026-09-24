@@ -1,4 +1,5 @@
-(function () 
+(function () {
+  const commitments = [
     {
         "axis": "2. Formación y crecimiento empresarial",
         "title": "Primera Red de Mentoras",
@@ -12,8 +13,7 @@
         "benefit": "Crear grupos de trabajo para sectores específicos donde las socias puedan detectar necesidades propias y proponer iniciativas, lideradas por una asociada.",
         "horizon": "Primer año",
         "highlight": false
-    },{
-  const commitments = [
+    },
     {
         "axis": "1. Representación e influencia",
         "title": "Tu voz, donde se decide",
