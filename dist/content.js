@@ -254,7 +254,7 @@
         "name": "Victoria Luna Ortiz",
         "role": "Tesorería",
         "initials": "VL",
-        "image": "_C4A2014.jpg",
+        "image": "_C4A2005.jpg",
         "focus": "Experta en asesoramiento y planificación financiera. Aporta a la candidatura una visión empresarial de los recursos: no se trata solo de controlar el gasto, sino de <strong>optimizar la financiación, buscar nuevas ayudas y diversificar los ingresos</strong>. El objetivo es ofrecer más formación y mejores proyectos a las socias, <strong>garantizando un crecimiento sostenible</strong>.",
         "lead": false
     }
