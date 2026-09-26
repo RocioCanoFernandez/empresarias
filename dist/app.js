@@ -35,7 +35,7 @@
         (member, index) => `
           <article class="team-card${member.lead ? " team-card-lead" : ""} reveal">
             
-            <img src="assets/images/${member.image}" alt="Foto de ${escapeHtml(member.name)}" style="aspect-ratio: 4 / 5; object-fit: cover; object-position: top center; width: 100%; margin-bottom: 1rem; border-radius: 4px; display: block;">
+            <img src="./assets/images/${member.image}" alt="Foto de ${escapeHtml(member.name)}" style="aspect-ratio: 4 / 5; object-fit: cover; object-position: top center; width: 100%; margin-bottom: 1rem; border-radius: 4px; display: block;">
             <div class="team-card-top">
               <span class="team-initials" aria-hidden="true">${escapeHtml(member.initials)}</span>
               <span class="team-index" aria-hidden="true">${String(index + 1).padStart(2, "0")}</span>
