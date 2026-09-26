@@ -231,7 +231,7 @@
         "name": "Mercedes Núñez Arcos",
         "role": "Vicepresidencia de Relaciones Institucionales",
         "initials": "MN",
-        "image": "_C4A1964.jpg",
+        "image": "_C4A2071.jpg",
         "focus": "Abogada y Secretaria General de APROCOM. Aporta una sólida trayectoria institucional y comercial. Su participación activa en comisiones de la Cámara, la CES y el Ayuntamiento tiene un objetivo claro: <strong>abrir puertas, construir alianzas estratégicas</strong> y garantizar que los intereses de nuestras asociadas estén defendidos en las <strong>mesas de negociación más importantes de Sevilla</strong>."
     },
     {
@@ -246,7 +246,7 @@
         "name": "Macarena Pérez Ocaña",
         "role": "Secretaría General",
         "initials": "MP",
-        "image": "_C4A2071.jpg",
+        "image": "_C4A1964.jpg",
         "focus": "Abogada y fundadora de su propia firma. Como actual Tesorera, conoce perfectamente el engranaje interno de la Asociación. Asume la Secretaría General con el propósito de transformar la gestión diaria: <strong>hacerla más ágil, cercana y transparente</strong>. Su objetivo es que cualquier socia, desde el primer día, sepa <strong>a quién acudir y cómo sacar el máximo provecho a la red</strong>.",
         "lead": false
     },
