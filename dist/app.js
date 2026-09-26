@@ -22,7 +22,7 @@
             <span class="commitment-number" aria-hidden="true">${String(index + 1).padStart(2, "0")}</span>
             <p class="commitment-time">${escapeHtml(item.horizon)}</p>
             <h3>${escapeHtml(item.title)}</h3>
-            <p>${escapeHtml(item.benefit)}</p>
+            <p>${item.benefit}</p>
           </article>`,
       )
       .join("");
@@ -35,9 +35,7 @@
         (member, index) => `
           <article class="team-card${member.lead ? " team-card-lead" : ""} reveal">
             
-            <div class="team-card-image-placeholder" style="aspect-ratio: 1; background: #e5e5e5; margin-bottom: 1rem; border-radius: 4px; display: flex; align-items: center; justify-content: center; color: #666; border: 1px dashed #ccc;">
-              [Foto ${escapeHtml(member.name)}]
-            </div>
+            <img src="assets/images/${member.image}" alt="Foto de ${escapeHtml(member.name)}" style="aspect-ratio: 4 / 5; object-fit: cover; object-position: top center; width: 100%; margin-bottom: 1rem; border-radius: 4px; display: block;">
             <div class="team-card-top">
               <span class="team-initials" aria-hidden="true">${escapeHtml(member.initials)}</span>
               <span class="team-index" aria-hidden="true">${String(index + 1).padStart(2, "0")}</span>
@@ -78,7 +76,7 @@
                         <span class="accordion-icon" aria-hidden="true"></span>
                       </summary>
                       <div class="program-body">
-                        <p>${escapeHtml(item.benefit)}</p>
+                        <p>${item.benefit}</p>
                         
                       </div>
                     </details>`,
