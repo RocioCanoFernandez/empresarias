@@ -15,7 +15,7 @@
       type="image/svg+xml"
       href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' fill='%231d1b1a'/%3E%3Cpath d='M0 0h10v64H0z' fill='%23e66f2d'/%3E%3Ctext x='37' y='42' text-anchor='middle' font-family='Georgia,serif' font-size='27' fill='white'%3EMC%3C/text%3E%3C/svg%3E"
     />
-    <link rel="stylesheet" href="./styles.css?v=11" />
+    <link rel="stylesheet" href="./styles.css?v=13" />
     <script src="./content.js?v=11" defer></script>
     <script src="./app.js?v=11" defer></script>
 
@@ -52,18 +52,27 @@
 </head>
   <body>
     <a class="skip-link" href="#contenido">Saltar al contenido</a>
-    <div class="review-strip">Versión privada de revisión · Propuesta editorial pendiente de validación</div>
+    
     <header class="site-header">
       <div class="header-inner">
-        <a class="wordmark" href="/" aria-label="Inicio — Mariló Caro Cals">
-          <span class="wordmark-mark" aria-hidden="true">MC</span>
-          <span class="wordmark-label">Candidatura Mariló Caro</span>
-        </a>
-        <nav class="site-nav" aria-label="Navegación principal">
+                  <a class="wordmark" href="/" aria-label="Inicio">
+            <span class="wordmark-mark" aria-hidden="true">MC</span>
+            <span class="wordmark-label">Candidatura Mariló Caro</span>
+          </a>
+                    <style>
+            @media (max-width: 820px) {
+              .header-logo-center { display: none !important; }
+            }
+          </style>
+          <div class="header-logo-center" style="flex: 1; display: flex; justify-content: center; align-items: center; min-width: 0; padding: 0 1rem;">
+            <img src="./assets/images/logo_empresarias.png" alt="Empresarias Sevillanas" style="max-height: 42px; width: auto; object-fit: contain;">
+          </div>
+          <nav class="site-nav" aria-label="Navegación principal"> aria-label="Navegación principal">
           <a href="#ejes">Los ejes</a>
           <a href="#equipo">El equipo</a>
-          <a href="#cien-dias">100 días</a>
-          <a class="nav-cta" href="#programa">Ver programa</a>
+          <a href="#cien-dias">Iniciativas clave</a>
+          <a href="#voto">Asamblea y votación</a>
+            <a class="nav-cta" href="#programa">Ver programa</a>
         </nav>
       </div>
     </header>
@@ -140,6 +149,29 @@
               <p class="hero-lead" style="font-size: 1.2rem; max-width: 800px; margin-bottom: 2rem;">
                 Un <strong>equipo de 5 profesionales liderado por Mariló Caro Cals</strong> para consolidar el posicionamiento institucional alcanzado y elevar nuestra asociación a un nivel superior, con <strong>mayor visibilidad e influencia</strong>.
               </p>
+
+              <!-- BLOQUE INFORMATIVO ASAMBLEA COMPACTO -->
+              <div style="background: rgba(255, 255, 255, 0.95); border-left: 4px solid var(--orange-dark); border-radius: 6px; padding: 1.25rem 1.5rem; margin-bottom: 2rem; max-width: 900px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); display: flex; flex-wrap: wrap; gap: 1.5rem; align-items: center; justify-content: space-between;">
+                <div style="flex: 1 1 auto; display: flex; flex-wrap: wrap; gap: 1.5rem; color: var(--text-dark);">
+                  <div style="display: flex; flex-direction: column;">
+                    <span style="font-size: 0.75rem; font-weight: 700; text-transform: uppercase; color: var(--muted); margin-bottom: 0.2rem;">Asamblea Electoral</span>
+                    <strong style="font-size: 1.1rem; line-height: 1.2; color: var(--orange-dark);">Mar. 8 de octubre</strong>
+                  </div>
+                  <div style="display: flex; flex-direction: column;">
+                    <span style="font-size: 0.75rem; font-weight: 700; text-transform: uppercase; color: var(--muted); margin-bottom: 0.2rem;">Horario</span>
+                    <span style="font-size: 0.95rem; line-height: 1.2;"><strong>17:00 h</strong> <span style="opacity: 0.8; font-size: 0.85rem;">(1ª conv: 16:30 h)</span></span>
+                  </div>
+                  <div style="display: flex; flex-direction: column;">
+                    <span style="font-size: 0.75rem; font-weight: 700; text-transform: uppercase; color: var(--muted); margin-bottom: 0.2rem;">Ubicación</span>
+                    <span style="font-size: 0.95rem; line-height: 1.2;">Sede de la CES<br><span style="opacity: 0.8; font-size: 0.85rem;">Plaza del Triunfo, 1</span></span>
+                  </div>
+                </div>
+                <div style="flex: 0 0 auto; text-align: right; display: flex; flex-direction: column; align-items: flex-end;">
+                  <a href="https://forms.gle/AX3NG73A2f4aGF126" target="_blank" rel="noopener" class="button button-primary" style="margin-bottom: 0.4rem; padding: 0.6rem 1.2rem; font-size: 0.95rem; background-color: var(--orange-dark);">Confirmar asistencia</a>
+                  <span style="font-size: 0.75rem; color: var(--muted); font-style: italic;">Antes del mar. 6 de oct. a las 12:00 h</span>
+                </div>
+              </div>
+              
               <div class="button-row">
                 <a class="button button-primary" href="#equipo">Nuestro equipo y visión</a>
                 <a class="button button-secondary" href="#programa">Ver programa completo</a>
@@ -160,7 +192,7 @@
             </header>
             <div class="commitment-grid" data-highlights aria-live="polite"></div>
             <noscript>
-              <p>Activa JavaScript para consultar el detalle de los compromisos de esta versión de revisión.</p>
+              <p>Activa JavaScript para consultar el detalle de las iniciativas clave.</p>
             </noscript>
             </div>
           </section>
@@ -218,17 +250,17 @@
       </h3>
       
       <div style="max-width: 880px; margin: 0 auto; display: flex; flex-wrap: wrap; justify-content: center; gap: 10px 12px;">
-        <span style="background: rgba(255, 255, 255, 0.16); border: 1px solid rgba(255, 255, 255, 0.35); border-radius: 8px; padding: 10px 18px; color: var(--white); font-weight: 600; font-size: 0.95rem; font-family: var(--sans);">Ana Herrero</span>
-        <span style="background: rgba(255, 255, 255, 0.16); border: 1px solid rgba(255, 255, 255, 0.35); border-radius: 8px; padding: 10px 18px; color: var(--white); font-weight: 600; font-size: 0.95rem; font-family: var(--sans);">Coral Romero</span>
-        <span style="background: rgba(255, 255, 255, 0.16); border: 1px solid rgba(255, 255, 255, 0.35); border-radius: 8px; padding: 10px 18px; color: var(--white); font-weight: 600; font-size: 0.95rem; font-family: var(--sans);">Encarna Moreno</span>
-        <span style="background: rgba(255, 255, 255, 0.16); border: 1px solid rgba(255, 255, 255, 0.35); border-radius: 8px; padding: 10px 18px; color: var(--white); font-weight: 600; font-size: 0.95rem; font-family: var(--sans);">María José Rodríguez</span>
-        <span style="background: rgba(255, 255, 255, 0.16); border: 1px solid rgba(255, 255, 255, 0.35); border-radius: 8px; padding: 10px 18px; color: var(--white); font-weight: 600; font-size: 0.95rem; font-family: var(--sans);">Marisa Hervás</span>
         <span style="background: rgba(255, 255, 255, 0.16); border: 1px solid rgba(255, 255, 255, 0.35); border-radius: 8px; padding: 10px 18px; color: var(--white); font-weight: 600; font-size: 0.95rem; font-family: var(--sans);">Mónica Durán</span>
-        <span style="background: rgba(255, 255, 255, 0.16); border: 1px solid rgba(255, 255, 255, 0.35); border-radius: 8px; padding: 10px 18px; color: var(--white); font-weight: 600; font-size: 0.95rem; font-family: var(--sans);">Patricia Muñoz</span>
-        <span style="background: rgba(255, 255, 255, 0.16); border: 1px solid rgba(255, 255, 255, 0.35); border-radius: 8px; padding: 10px 18px; color: var(--white); font-weight: 600; font-size: 0.95rem; font-family: var(--sans);">Pilar Mondaza</span>
-        <span style="background: rgba(255, 255, 255, 0.16); border: 1px solid rgba(255, 255, 255, 0.35); border-radius: 8px; padding: 10px 18px; color: var(--white); font-weight: 600; font-size: 0.95rem; font-family: var(--sans);">Valle Tamarit</span>
+        <span style="background: rgba(255, 255, 255, 0.16); border: 1px solid rgba(255, 255, 255, 0.35); border-radius: 8px; padding: 10px 18px; color: var(--white); font-weight: 600; font-size: 0.95rem; font-family: var(--sans);">Ana Herrero</span>
+        <span style="background: rgba(255, 255, 255, 0.16); border: 1px solid rgba(255, 255, 255, 0.35); border-radius: 8px; padding: 10px 18px; color: var(--white); font-weight: 600; font-size: 0.95rem; font-family: var(--sans);">Marisa Hervás</span>
         <span style="background: rgba(255, 255, 255, 0.16); border: 1px solid rgba(255, 255, 255, 0.35); border-radius: 8px; padding: 10px 18px; color: var(--white); font-weight: 600; font-size: 0.95rem; font-family: var(--sans);">Yolanda Hervás</span>
+        <span style="background: rgba(255, 255, 255, 0.16); border: 1px solid rgba(255, 255, 255, 0.35); border-radius: 8px; padding: 10px 18px; color: var(--white); font-weight: 600; font-size: 0.95rem; font-family: var(--sans);">Pilar Mondaza</span>
+        <span style="background: rgba(255, 255, 255, 0.16); border: 1px solid rgba(255, 255, 255, 0.35); border-radius: 8px; padding: 10px 18px; color: var(--white); font-weight: 600; font-size: 0.95rem; font-family: var(--sans);">Encarna Moreno</span>
+        <span style="background: rgba(255, 255, 255, 0.16); border: 1px solid rgba(255, 255, 255, 0.35); border-radius: 8px; padding: 10px 18px; color: var(--white); font-weight: 600; font-size: 0.95rem; font-family: var(--sans);">Patricia Muñoz</span>
+        <span style="background: rgba(255, 255, 255, 0.16); border: 1px solid rgba(255, 255, 255, 0.35); border-radius: 8px; padding: 10px 18px; color: var(--white); font-weight: 600; font-size: 0.95rem; font-family: var(--sans);">María José Rodríguez</span>
+        <span style="background: rgba(255, 255, 255, 0.16); border: 1px solid rgba(255, 255, 255, 0.35); border-radius: 8px; padding: 10px 18px; color: var(--white); font-weight: 600; font-size: 0.95rem; font-family: var(--sans);">Coral Romero</span>
         <span style="background: rgba(255, 255, 255, 0.16); border: 1px solid rgba(255, 255, 255, 0.35); border-radius: 8px; padding: 10px 18px; color: var(--white); font-weight: 600; font-size: 0.95rem; font-family: var(--sans);">Yolanda Sánchez</span>
+        <span style="background: rgba(255, 255, 255, 0.16); border: 1px solid rgba(255, 255, 255, 0.35); border-radius: 8px; padding: 10px 18px; color: var(--white); font-weight: 600; font-size: 0.95rem; font-family: var(--sans);">Valle Tamarit</span>
       </div>
       
       <p style="text-align: center; font-size: 0.85rem; font-style: italic; color: rgba(255, 255, 255, 0.85); max-width: 680px; margin: 1rem auto 2.2rem; line-height: 1.5; font-family: var(--sans);">
@@ -418,7 +450,7 @@
               <h2>Programa completo.</h2>
             </div>
             <p class="section-intro">
-              Estas son solo 6 de las medidas que cambiarán nuestra asociación. Conoce todo lo que hemos preparado para ti.
+              Estas son solo 8 de las medidas que cambiarán nuestra asociación. Conoce las 30 propuestas que hemos preparado para ti.
             </p>
           </header>
           <div data-program></div>
@@ -499,9 +531,16 @@
                 <li style="margin-bottom: 0.75rem;">Asistir <strong>físicamente y en persona</strong> (no se puede delegar).</li>
                 <li style="margin-bottom: 0.75rem;">Llevar <strong>documento oficial de identidad (DNI/NIE)</strong>.</li>
               </ul>
+              
+              <div style="margin-top: 2rem; padding: 1.5rem; background: rgba(218, 31, 38, 0.05); border: 1px solid rgba(218, 31, 38, 0.15); border-radius: 6px; text-align: center;">
+                <h4 style="margin-top: 0; margin-bottom: 0.75rem; color: var(--text-dark); font-size: 1.05rem;">Confirmación de Asistencia</h4>
+                <a href="https://forms.gle/AX3NG73A2f4aGF126" target="_blank" rel="noopener" class="button button-primary" style="display: inline-block; margin-bottom: 0.75rem; padding: 0.7rem 1.5rem; width: 100%;">Confirmar asistencia</a>
+                <p style="margin: 0; font-size: 0.85rem; color: var(--muted);"><strong>Fecha límite:</strong><br>Martes 6 de octubre a las 12:00 h</p>
+              </div>
+
               <div style="margin-top: 2rem; padding: 1.5rem; background: #faf7f2; border-left: 4px solid #e66f2d; border-radius: 4px;">
                 <strong>🍷 Cierre con networking</strong><br>
-                <span style="font-size: 0.9em; display: inline-block; margin-top: 0.5rem;">Al finalizar el escrutinio, tendremos una copa de vino español para charlar y conectar entre todas. ¡Haz el esfuerzo de venir!</span>
+                <span style="font-size: 0.9em; display: inline-block; margin-top: 0.5rem;">Al finalizar el recuento y la proclamación (aproximadamente entre las 19:00 y las 20:00 h), tendremos una copa de vino español para charlar y conectar entre todas. ¡Haz el esfuerzo de venir!</span>
               </div>
             </div>
 
@@ -534,7 +573,7 @@
     <footer class="site-footer">
       <div class="wrap footer-inner">
         <p>Mariló Caro Cals · Candidatura 2026–2030</p>
-        <p>Versión editorial para revisión interna.</p>
+        
       </div>
     </footer>
   </body>
