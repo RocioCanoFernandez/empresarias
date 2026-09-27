@@ -224,7 +224,7 @@
 
 
 
-        "focus": "Abogada y empresaria con más de 20 años de trayectoria. Su labor durante casi una década en la directiva le permite <strong>conocer a fondo las necesidades reales de las socias</strong>. Su actual presencia en la CES, la Cámara de Comercio y la CEA no es un fin en sí mismo, sino la herramienta clave para que <strong>Empresarias Sevillanas tenga voz donde se toman las decisiones</strong> y pueda conseguir mejores oportunidades para tu negocio.",
+        "focus": "Abogada y empresaria con más de 20 años de trayectoria. Su labor durante casi una década en la directiva le permite <strong>conocer a fondo las necesidades reales de las socias</strong>. Su actual presencia en la CES, la Cámara de Comercio de Sevilla y la CEA no es un fin en sí mismo, sino la herramienta clave para que <strong>Empresarias Sevillanas tenga voz donde se toman las decisiones</strong> y pueda conseguir mejores oportunidades para tu negocio.",
         "lead": true
     },
     {
@@ -232,7 +232,7 @@
         "role": "Vicepresidencia de Relaciones Institucionales",
         "initials": "MN",
         "image": "_C4A2071.jpg",
-        "focus": "Abogada y empresaria desde hace más de 30 años, actual Secretaria General de APROCOM. Aporta una sólida trayectoria institucional y comercial. Su participación activa en comisiones de la Cámara, la CES y el Ayuntamiento tiene un objetivo claro: <strong>abrir puertas, construir alianzas estratégicas</strong> y garantizar que los intereses de nuestras asociadas estén defendidos en las <strong>mesas de negociación más importantes de Sevilla</strong>."
+        "focus": "Abogada y empresaria desde hace más de 30 años, actual Secretaria General de APROCOM. Aporta una sólida trayectoria institucional y comercial. Su participación activa en comisiones de la Cámara de Comercio de Sevilla, la CES y el Ayuntamiento tiene un objetivo claro: <strong>abrir puertas, construir alianzas estratégicas</strong> y garantizar que los intereses de nuestras asociadas estén defendidos en las <strong>mesas de negociación más importantes de Sevilla</strong>."
     },
     {
         "name": "Rocío Cano Fernández-Piedra",
