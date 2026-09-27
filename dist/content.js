@@ -232,7 +232,7 @@
         "role": "Vicepresidencia de Relaciones Institucionales",
         "initials": "MN",
         "image": "_C4A2071.jpg",
-        "focus": "Abogada y Secretaria General de APROCOM. Aporta una sólida trayectoria institucional y comercial. Su participación activa en comisiones de la Cámara, la CES y el Ayuntamiento tiene un objetivo claro: <strong>abrir puertas, construir alianzas estratégicas</strong> y garantizar que los intereses de nuestras asociadas estén defendidos en las <strong>mesas de negociación más importantes de Sevilla</strong>."
+        "focus": "Abogada y empresaria desde hace más de 30 años, actual Secretaria General de APROCOM. Aporta una sólida trayectoria institucional y comercial. Su participación activa en comisiones de la Cámara, la CES y el Ayuntamiento tiene un objetivo claro: <strong>abrir puertas, construir alianzas estratégicas</strong> y garantizar que los intereses de nuestras asociadas estén defendidos en las <strong>mesas de negociación más importantes de Sevilla</strong>."
     },
     {
         "name": "Rocío Cano Fernández-Piedra",
